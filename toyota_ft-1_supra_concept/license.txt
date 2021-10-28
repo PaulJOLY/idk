@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toyota FT-1 Supra Concept
+* source:	https://sketchfab.com/3d-models/toyota-ft-1-supra-concept-8174db5966924e499cccbbb3e1539ff4
+* author:	Rtag63 (https://sketchfab.com/Rtag63)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toyota FT-1 Supra Concept" (https://sketchfab.com/3d-models/toyota-ft-1-supra-concept-8174db5966924e499cccbbb3e1539ff4) by Rtag63 (https://sketchfab.com/Rtag63) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
